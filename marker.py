@@ -18,5 +18,3 @@ def get_player_markers():
 # Updating Game Board With Player Input
 def set_player_marker(board, marker, position):
     board[position] = marker
-
-

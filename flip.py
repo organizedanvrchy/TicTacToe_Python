@@ -7,4 +7,3 @@ def flip():
         return 'Player 1'
     else:
         return 'Player 2'
-    
